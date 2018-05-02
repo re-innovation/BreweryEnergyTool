@@ -24,8 +24,13 @@ A loose fitting lid may or may not be used in the process.
 
 ## Heat Exchanger
 
-The heat exchanger 
-
+The heat exchanger is used to recover some of the heat from the hot product from the Copper. This is typically at 100-95C. Incomming cold water is used to cool the product to around 27C.
+So the parameters are:
+Incomming hot flow: 95C input and 27C output.
+Incomming cold flow: Ambient water temperature (4-12C, depending upon season) input and 40-50C output 
+Flow rates are in the region of 0.5 - 1.5 l/s.
+The heat exchanger has a heat transfer coefficient of around 1000-4000 W/m2C (for flat plate exchangers).
+The heat exchanger plate size depend totally upon the application. It is in the region of 3-10 m2.
 
 The supplier of most of these heat exchanger is UK Exchangers Ltd: http://www.uk-exchangers.com/plate/
 
