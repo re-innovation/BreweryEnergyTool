@@ -27,12 +27,16 @@ A loose fitting lid may or may not be used in the process.
 The heat exchanger 
 
 
+The supplier of most of these heat exchanger is UK Exchangers Ltd: http://www.uk-exchangers.com/plate/
+
 ## Fermentation 
 
 The product from the Copper is then transferred to a fermentation vessel where yeast is added and the liquid ferments into beer.
-This is ideally done (for ales) at 20-22C. Heater and chillers are used 
+This is ideally done (for ales) at 20-22C. Heater and chillers are used to maintain the ideal fermentation temperature.
 
 ## Conditioning
+
+The fermented beer product is then usually crash cooled to between 4-10C. The beer can then be stored until it is ready to be casked or bottled.
 
 ## Storage
 
@@ -44,6 +48,7 @@ The Hot Liquor Tank and the Heat Exchanger have been modelled using Finite Eleme
 
 This has been performed using the open source program FreeFem, www.freefem.org.
 The windows version can be downloaded from this link: http://www.freefem.org/ff++/windows.php
+As of 2/5/2018, only the 32-bit version was stable and working. YMMV.
 
 This needs to be installed and then the simulation scripts within this repository are used to investigate these elements.
 
